@@ -1,0 +1,1 @@
+This folder will contain all the UI and form components if required (mainly use chakra-ui components) and the global components used by multiple screens.

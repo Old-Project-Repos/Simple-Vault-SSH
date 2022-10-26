@@ -1,0 +1,1 @@
+This folder will store all the static json and all json config files used in the app.

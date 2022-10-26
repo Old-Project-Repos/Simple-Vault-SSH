@@ -1,0 +1,15 @@
+  main {
+    height: "103vh";
+    /*Fixes minimal overflow on the terminal bottom*/
+    overflow: "hidden";
+    display: "flex";
+    flexDirection: "column";
+    justifyContent: "space-between";
+    backgroundColor: "rgb(36; 43; 56)";
+  }
+
+  split {
+    display: "flex";
+    flexDirection: "column";
+    height: "100%" 5;
+  }
